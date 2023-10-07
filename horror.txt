@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:- Los Angeles
+https://wms-prod-3.wetmet.net/live/281-03-01/chunks.m3u8?nimblesessionid=12501016&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDY6MjY6NDUgUE0maGFzaF92YWx1ZT1MenNSSER2MUo5QnNycEZyRnFTN013PT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-Porto Nacional
+https://wms-prod-3.wetmet.net/live/269-01-01/chunks.m3u8?nimblesessionid=12501067&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDY6MzA6MTIgUE0maGFzaF92YWx1ZT0xQ29TVGh5a1J6cU1ZYzJNTVNYZ253PT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-Cidade de Nova York
+https://wms-prod-3.wetmet.net/live/267-01-01/chunks.m3u8?nimblesessionid=12501125&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDY6MzM6MzIgUE0maGFzaF92YWx1ZT13SkZlZURGY2E3cHJabDRXQVV2c0FBPT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-Hog,s Breath Saloon Live		
+https://stream.resortcams.com/live-hogsbreath/hogsbreath2-audio.stream/chunklist.m3u8		
+#EXTINF:-Schooners Hill Bar (Panama City
+https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/chunklist_w142301431.m3u8
+#EXTINF:-Sloppy Joe's Live Bar Cam | Sloppy Joe's Bar
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.sh2.rt2733.rc0.smil/chunklist_w965327577_b3096000.m3u8
+#EXTINF:-Sharky's Beachfront Restaurant (Panama City
+https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w2117488501.m3u8
+#EXTINF:-Dead Dog Saloon (Murrells Inlet
+https://5ed7b8fd7bf40.streamlock.net:444/DeadDogSaloonCam/deaddog/chunklist_w69474534.m3u8
+#EXTINF:-New Smyrna Beach Live	
+https://wowza.volusia.org/live/newsymrna.stream/chunklist_w703663801.m3u8
+#EXTINF:-Pacific Park (Santa Monica
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kcajbp1.fd0.sm1.av2.mt1.at0.as0.sh2.rt2733.rc0.edge.vpass.stream/chunklist_w699544385.m3u8
+#EXTINF:-2
+Asbury Park Boardwalk Live Cam
+#EXTINF:-3		
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.sh2.rt2733.rc0.smil/chunklist_w1223121719_b3096000.m3u8
+#EXTINF:-Santuario of Fatima
+https://streamer-a03.videos.sapo.pt/live/santuario/chunklist_w1308163490.m3u8
+
+
